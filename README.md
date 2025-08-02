@@ -67,3 +67,65 @@ This project has been one of the most valuable and enjoyable learning experience
 
 ---
 
+##  Post-Midterm Progress
+
+After the midterm, I focused deeply on **Dynamic Programming (DP)** and covered the essential foundations of **Graph Theory**. Below is a detailed summary of the concepts and problem types I explored.
+
+---
+
+###  Dynamic Programming (In-Depth Learning)
+
+I explored both **Top-Down (Memoization)** and **Bottom-Up (Tabulation)** approaches, along with key principles like:
+
+- State representation and transition design
+- Overlapping subproblems and optimal substructure
+- Space/time optimizations and one-dimensional DP
+
+#### 📌 Problems Studied
+- Fibonacci sequence
+- 0/1 Knapsack problem
+- Coin Change (min ways and total combinations)
+- Longest Increasing Subsequence (LIS)
+- Edit Distance
+- Path in Grid (min path sum and number of paths)
+- Maximum Subarray Sum (Kadane’s Algorithm)
+
+---
+
+###  Graph Theory (Fundamental Concepts)
+
+While I explored DP in detail, I also covered the fundamental aspects of Graph Theory, including:
+
+#### ✅ Topics Covered
+- Graph Representations:
+  - Adjacency List
+  - Adjacency Matrix
+
+- Graph Traversals:
+  - Breadth-First Search (BFS)
+  - Depth-First Search (DFS)
+
+- Shortest Path Algorithms:
+  - Dijkstra’s Algorithm
+  - Bellman-Ford Algorithm
+  - Floyd-Warshall Algorithm
+
+- Topological Sorting:
+  - Kahn’s Algorithm (BFS-based)
+
+---
+
+This post-midterm learning phase significantly improved my problem-solving ability in **Dynamic Programming** and gave me a solid foundation to explore **advanced Graph Algorithms**.
+---
+
+## 📈 Problem-Solving Stats (as of now)
+
+- ✅ **100+ problems** solved on Codeforces  
+- ✅ **~30 problems** solved on CSES  
+- ✅ Plus additional problems from USACO,atcoder and shared practice sheets
+
+---
+
+
+
+
